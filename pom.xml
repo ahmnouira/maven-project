@@ -7,8 +7,8 @@
   <artifactId>maven-project</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>Maven P</name>
-  <description>Sample Maven project with a working, deployable site.</description>
+  <name>Maven Project</name>
+  <description>Swwwwww Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
 
   <properties>
